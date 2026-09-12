@@ -238,15 +238,6 @@ Led a global, virtual DBA team managing a $1.2M annual services budget across 80
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devopsdesign&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsdesign&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/devopsdesign"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devopsdesign@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
