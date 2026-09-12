@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gámez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+Automation+Engineer+%7C+Cloud+Engineer+%7C+SRE;15%2B+years+across+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+Automation+Engineer+%7C+Cloud+Engineer+%7C+SRE;15%2B+years+across+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,13 +29,16 @@ Senior Automation Engineer and Cloud/SRE with **15+ years of experience** design
 
 Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) with a strong automation foundation in Terraform, Ansible, Jenkins, and CloudFormation. I'm motivated by building efficient, scalable solutions that reduce manual intervention — and I'm looking to contribute to projects that prioritize innovative automation and streamlined infrastructure practices.
 
+I'm actively moving my career toward **AIOps** — applying AI/ML to observability, automation, and incident response instead of treating them as separate disciplines.
+
 - 🔭 Currently: **Senior Automation Engineer @ PETCO** — retail operations automation using OLAM, Ansible, and Terraform; Kubernetes-based containerized apps; GitLab-managed automation code; Datadog/Grafana observability
-- 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and exploring AI-assisted automation workflows
+- 🤖 Moving toward: **AIOps** — AI-driven observability, AI-assisted automation tooling, and applied ML in infrastructure projects
+- 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and building out AI-assisted automation workflows into my daily tooling
 - 🌱 Currently working toward: **AWS Certified Solutions Architect – Associate**
-- 🏢 Looking for: **on-site / in-office roles** in DevOps, SRE, Cloud Engineering, or Platform Operations
+- 🏢 Looking for: **on-site / in-office roles** in DevOps, SRE, Cloud Engineering, Platform Operations, or AIOps
 - 📍 Based in Jalisco / Nuevo León, Mexico — open to Guadalajara, Monterrey, or relocating anywhere in Mexico
-- 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, and observability tooling
-- 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting
+- 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, AIOps, and observability tooling
+- 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting, AI-augmented DevOps
 - 🌐 Languages: English (professional), Spanish (native)
 
 ---
@@ -70,6 +73,14 @@ Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) wit
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=white)
 
+**🤖 AIOps & AI-Augmented Automation**
+![Datadog Watchdog](https://img.shields.io/badge/Datadog%20Watchdog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+> AI-driven anomaly detection in daily observability (Datadog Watchdog), AI coding/agent assistants (Claude, Copilot, ChatGPT) in my IaC and scripting workflow, and applied computer vision in production (Amazon Rekognition — see *CloudSight Intake* below).
+
 **Languages & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnubash&logoColor=white)
@@ -97,14 +108,14 @@ Two hands-on, production-shaped builds — both designed to run entirely inside 
 <tr>
 <td width="50%" valign="top">
 
-#### 🖼️ [CloudSight Intake — Image Processing Pipeline](https://github.com/devopsdesign/image-processing-pipeline)
+#### 🖼️🤖 [CloudSight Intake — AI-Powered Image Processing Pipeline](https://github.com/devopsdesign/image-processing-pipeline)
 
-A fully serverless image-processing pipeline on AWS.
+A fully serverless pipeline that puts **applied ML directly in the infrastructure**, not bolted on after.
 
-**Flow:** S3 upload → EventBridge → Step Functions → Lambda (X-Ray traced) → cascading Amazon Rekognition → DynamoDB summary + full JSON in S3 → SES/SNS notification. Failed executions retry, then land in an SQS DLQ with a CloudWatch alarm. A read-only HTTP API and Athena SQL sit on top of the results, with a CloudWatch dashboard tracking the whole pipeline — plus a monthly AWS Budget alert if it ever stops being free.
+**Flow:** S3 upload → EventBridge → Step Functions → Lambda (X-Ray traced) → cascading **Amazon Rekognition (computer vision)** → DynamoDB summary + full JSON in S3 → SES/SNS notification. Failed executions retry, then land in an SQS DLQ with a CloudWatch alarm. A read-only HTTP API and Athena SQL sit on top of the ML results, with a CloudWatch dashboard tracking the whole pipeline — plus a monthly AWS Budget alert if it ever stops being free.
 
+- **AI-gated inference**: Rekognition calls chain conditionally (labels → text → faces) — each stage only fires if the previous one found something, cutting inference cost automatically
 - Idempotent processing (S3 ETag as dedup key)
-- Gated Rekognition calls (labels → text → faces) to cap cost
 - Step Functions `Retry`/`Catch` in place of Lambda's built-in async retry
 
 `Terraform` `Lambda (Python)` `Step Functions` `EventBridge` `DynamoDB` `Rekognition` `API Gateway` `Athena/Glue` `X-Ray`
@@ -221,6 +232,9 @@ Led a global, virtual DBA team managing a $1.2M annual services budget across 80
 - Oracle Cloud Infrastructure Architect Associate (Aug 2020)
 - Oracle Certified Associate (OCA) (2016)
 
+**🤖 AIOps & AI Tooling**
+- Leading Through AI Agent Disruption — LinkedIn Learning (Jun 2026)
+
 **Security & Process**
 - SEO, DevSecOps, and Foundation Core (Sep 2020)
 - ITIL Foundation Service Management (2019)
@@ -231,7 +245,6 @@ Led a global, virtual DBA team managing a $1.2M annual services budget across 80
 <summary><b>Recent Learning</b> — LinkedIn Learning course completions (Jun 2026)</summary>
 <br>
 
-- Leading Through AI Agent Disruption
 - Learning Splunk
 - Vulnerability Management in Cybersecurity: The Basics
 </details>
