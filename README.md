@@ -12,27 +12,27 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prefers-On--Site%20%2F%20In--Office-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/On--Site%20%2F%20In--Office-Guadalajara%20%C2%B7%20Monterrey%20%C2%B7%20Anywhere%20in%20Mexico-orange?style=for-the-badge" />
 </p>
 
 ---
 
-> 💼 **I'm open to new opportunities** — actively exploring my next role in DevOps, SRE, Cloud Engineering, or Platform Operations.
-> **I have a strong preference for on-site / in-office positions over remote** — I do my best work embedded with a team, whiteboarding architecture in person and building relationships face to face. If you're hiring locally (or for relocation), let's talk!
+> 💼 **Open to new opportunities** in DevOps, SRE, Cloud Engineering, or Platform Operations — **on-site / in-office roles preferred**, based in Jalisco or Nuevo León (Guadalajara, Monterrey) with flexibility to relocate anywhere in Mexico.
 >
-> 📫 Reach out: **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)**
+> 📫 **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)**
 
 ---
 
 ### 🚀 About Me
 
-Cloud Engineer and DevOps/SRE with **15+ years of experience** designing, building, and maintaining highly available, secure, and scalable environments across **AWS, OCI, and GCP**. I specialize in CI/CD for database-as-code, monitoring & alerting (CloudWatch, Splunk, Prometheus, Grafana, Datadog), infrastructure automation, and driving legacy-to-cloud-native transformations.
+Senior Automation Engineer and Cloud/SRE with **15+ years of experience** designing, building, and maintaining highly available, secure, and scalable environments across **AWS, OCI, and GCP**. Currently driving workflow automation in retail operations — containerized applications on Kubernetes, automation code managed through GitLab, and Datadog/Grafana for observability — with core strengths in cloud computing, site reliability engineering, and Python.
 
-Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) with a strong automation foundation in Terraform, Ansible, Jenkins, and CloudFormation. I thrive leading cross-functional teams and helping organizations ship faster with more reliable, cost-optimized infrastructure.
+Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) with a strong automation foundation in Terraform, Ansible, Jenkins, and CloudFormation. I'm motivated by building efficient, scalable solutions that reduce manual intervention — and I'm looking to contribute to projects that prioritize innovative automation and streamlined infrastructure practices.
 
-- 🔭 Currently: **Automation Senior Engineer @ PETCO** — enterprise Unix/Linux infrastructure, cloud virtualization, and automation workflows across GCP/AWS
+- 🔭 Currently: **Senior Automation Engineer @ PETCO** — retail operations automation using OLAM, Ansible, and Terraform; Kubernetes-based containerized apps; GitLab-managed automation code; Datadog/Grafana observability
 - 🌱 Currently working toward: **AWS Certified Solutions Architect – Associate**
 - 🏢 Looking for: **on-site / in-office roles** in DevOps, SRE, Cloud Engineering, or Platform Operations
+- 📍 Based in Jalisco / Nuevo León, Mexico — open to Guadalajara, Monterrey, or relocating anywhere in Mexico
 - 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, and observability tooling
 - 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting
 - 🌐 Languages: English (professional), Spanish (native)
@@ -75,6 +75,7 @@ Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) wit
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **CI/CD & Delivery**
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=flat&logo=buildkite&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat&logo=terraform&logoColor=white)
@@ -131,10 +132,10 @@ A cloud-native observability stack — K3s, Prometheus, Grafana, and a Python/Fa
 ### 🧭 Career Timeline
 
 <details>
-<summary><b>PETCO</b> — Automation Senior Engineer · Aug 2025 – Present</summary>
+<summary><b>PETCO</b> — Senior Automation Engineer · Aug 2025 – Present</summary>
 <br>
 
-Lead administration, optimization, and automation of enterprise-scale Unix/Linux infrastructure and cloud virtualization (Nutanix, GCP, AWS). Bridge between Unix Engineering, DevOps, and Database teams for HA systems, VM lifecycle/decommissioning, and patch/deployment automation.
+Drive workflow automation for retail operations using OLAM, Ansible, and Terraform. Support containerized applications on Kubernetes, maintain automation code through GitLab, and use Datadog and Grafana for system observability and monitoring. Also lead administration and automation of enterprise-scale Unix/Linux infrastructure and cloud virtualization (Nutanix, GCP, AWS), bridging Unix Engineering, DevOps, and Database teams for HA systems, VM lifecycle/decommissioning, and patch/deployment automation.
 </details>
 
 <details>
@@ -219,16 +220,20 @@ Led a global, virtual DBA team managing a $1.2M annual services budget across 80
 - Oracle Cloud Infrastructure Architect Associate (Aug 2020)
 - Oracle Certified Associate (OCA) (2016)
 
-**Security & Observability**
-- Vulnerability Management in Cybersecurity: The Basics — LinkedIn Learning (Jun 2026)
-- Learning Splunk — LinkedIn Learning (Jun 2026)
+**Security & Process**
 - SEO, DevSecOps, and Foundation Core (Sep 2020)
-
-**AI & Process**
-- Leading Through AI Agent Disruption — LinkedIn Learning (Jun 2026)
 - ITIL Foundation Service Management (2019)
 
 **Education:** Computer Science Engineer — UACJ, 2015
+
+<details>
+<summary><b>Recent Learning</b> — LinkedIn Learning course completions (Jun 2026)</summary>
+<br>
+
+- Leading Through AI Agent Disruption
+- Learning Splunk
+- Vulnerability Management in Cybersecurity: The Basics
+</details>
 
 ---
 
@@ -242,7 +247,6 @@ Led a global, virtual DBA team managing a $1.2M annual services budget across 80
 ---
 
 <p align="center">
-  <b>🟢 Open to new opportunities — on-site preferred.</b><br>
   <a href="https://linkedin.com/in/devopsdesign"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devopsdesign@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
