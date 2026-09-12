@@ -30,6 +30,7 @@ Senior Automation Engineer and Cloud/SRE with **15+ years of experience** design
 Background as a Senior DBA (AWS RDS, PostgreSQL, MongoDB, MySQL, Oracle/OCI) with a strong automation foundation in Terraform, Ansible, Jenkins, and CloudFormation. I'm motivated by building efficient, scalable solutions that reduce manual intervention — and I'm looking to contribute to projects that prioritize innovative automation and streamlined infrastructure practices.
 
 - 🔭 Currently: **Senior Automation Engineer @ PETCO** — retail operations automation using OLAM, Ansible, and Terraform; Kubernetes-based containerized apps; GitLab-managed automation code; Datadog/Grafana observability
+- 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and exploring AI-assisted automation workflows
 - 🌱 Currently working toward: **AWS Certified Solutions Architect – Associate**
 - 🏢 Looking for: **on-site / in-office roles** in DevOps, SRE, Cloud Engineering, or Platform Operations
 - 📍 Based in Jalisco / Nuevo León, Mexico — open to Guadalajara, Monterrey, or relocating anywhere in Mexico
