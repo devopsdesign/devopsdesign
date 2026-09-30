@@ -37,7 +37,7 @@ I've spent **20 years in IT**, starting as a Computer Science Engineer from UACJ
 
 Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty.
 
-Before that: automated network discovery, NetApp ONTAP upgrade automation, and CI/CD at **SAP**; at **FICO**, 45+ Jenkins jobs migrated to Pipelines (−25% build time), AWS security standards with 100% audit compliance, and average ticket resolution cut from 48 to 24 hours; DevOps, RDS, and SRE work at **BlackLine** and **Dexcom**; and before 2021, a decade-plus as an Oracle DBA and technical leader at **Oracle, Nextiva, HCL, T-Systems, Foxconn, and HP**.
+Before that: automated network discovery, NetApp ONTAP upgrade automation, and CI/CD at **SAP**; at **FICO**, 45+ Jenkins jobs migrated to Pipelines (−25% build time), AWS security standards with 100% audit compliance, and average ticket resolution cut from 48 to 24 hours; DevOps, RDS, and SRE work at **BlackLine**, and at **Dexcom** and **Campspot** (through ITJuana and Zoolatech); and before 2021, a decade-plus as an Oracle DBA and technical leader at **Oracle, Nextiva, HCL, T-Systems, Foxconn, and HP**.
 
 I'm actively moving my career toward **AIOps** — applying AI/ML to observability, automation, and incident response instead of treating them as separate disciplines.
 
@@ -190,10 +190,17 @@ Tuned Amazon Aurora MySQL parameter groups (+20% query performance, −15% CPU) 
 </details>
 
 <details>
-<summary><b>Dexcom</b> — SRE / DevSecOps Engineer · Nov 2021 – Jul 2022 · Remote</summary>
+<summary><b>Zoolatech</b> (client: Campspot) — SRE / DevSecOps Engineer · Mar 2022 – Jul 2022 · Remote</summary>
 <br>
 
-Buildkite and Harness CI/CD (bi-weekly → weekly releases), Terragrunt modules for ECR (−90% manual effort), CloudWatch/EventBridge alerting (−40% undetected incidents), Ansible in GitHub-based CI (provisioning 2 h → 15 min), and SonarQube image upgrades (+30% scan speed).
+Buildkite and Harness CI/CD (bi-weekly → weekly releases), Terragrunt modules for automated ECR repository creation (−90% manual effort), CloudWatch alarms and EventBridge rules (−40% undetected incidents), and the Terragrunt infrastructure repository for AWS provisioning.
+</details>
+
+<details>
+<summary><b>ITJuana</b> (client: Dexcom) — DevOps Engineer · Nov 2021 – Feb 2022 · Remote</summary>
+<br>
+
+Refactored Ansible playbooks into a GitHub-based CI workflow with pull-request deployments (provisioning 2 h → 15 min), upgraded SonarQube Docker images to the latest LTS (+30% scan speed), built Datadog dashboards with PagerDuty integration, and administered GCP environments.
 </details>
 
 <details>
