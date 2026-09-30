@@ -261,13 +261,24 @@ Java/J2EE data applications that replaced a licensed Informatica workflow; Oracl
 - AWS Certified Solutions Architect – Associate *(in progress)*
 
 **Cloud, DevOps & Storage training**
-- NetApp: ONTAP Performance Administration (Jun 2025) · ONTAP Troubleshooting (Mar 2025) · Automating ONTAP REST APIs with Ansible (Mar 2025) · ONTAP Cluster Administration (Dec 2024) · ONTAP Data Protection Administration (Dec 2024)
-- AWS: Cloud Practitioner Essentials Day (Apr 2023) · Cloud Practitioner Essentials (Nov 2022) · Migrating from Oracle to Amazon RDS (Oct 2021) · Advanced Testing Practices Using AWS DevOps Tools (Oct 2021) · Getting Started with DevOps on AWS (Oct 2021)
+- NetApp: ONTAP Performance Administration (Jun 2025) · ONTAP Troubleshooting (Mar 2025) · Automating ONTAP REST APIs with Ansible (Mar 2025) · ONTAP Cluster Administration (Dec 2024) · ONTAP Data Protection Administration (Dec 2024) · ONTAP Select Fundamentals · Data Network Fundamentals
+- AWS: Cloud Practitioner Essentials Day (Apr 2023) · Cloud Practitioner Essentials (Nov 2022) · Migrating from Oracle to Amazon RDS (Oct 2021) · Advanced Testing Practices Using AWS DevOps Tools (Oct 2021) · Getting Started with DevOps on AWS (Oct 2021) · PostgreSQL Fundamentals · PostgreSQL Fundamentals: SQL Command Line · Getting Started with Amazon RDS for MariaDB
 - LinkedIn Learning: Certified Kubernetes Administrator (CKA) Cert Prep: The Basics (Nov 2021) · Learning Kubernetes (Nov 2021) · DevOps Foundations (Nov 2021) · AWS for DevOps: Continuous Delivery and Process Automation (Oct 2021) · DevOps with AWS (Oct 2021)
-- Oracle University: Oracle Database 11g Performance Tuning (Aug 2014)
+- Oracle: RMAN, GoldenGate, Migrations & Cloud Infrastructure (2020) · Oracle Backup/Restore on 12c · Oracle University: Oracle Database 11g Performance Tuning (Aug 2014)
+- Security: DevSecOps Foundation
 
 **🤖 AIOps & AI Tooling**
 - Leading Through AI Agent Disruption — LinkedIn Learning (Jun 2026)
+
+<details>
+<summary><b>Leadership & Management</b> — courses</summary>
+<br>
+
+- Leadership School I & II · Synergistic Leadership · Finance for Non-Financial Managers — Virtual 5 (2014)
+- Problem Analysis and Decision Making (2015) · Leadership and Teamwork for Project Delivery · Customer Service Excellence · Administration, Accounting and Economics · Intercultural Training — InQba
+- Building High-Performance Teams · Leadership Skills — Universidad Iberoamericana Puebla
+- Diploma in Organizational Development: Customer Service, Modules 1 & 2 — Universidad Anáhuac Puebla
+</details>
 
 **Education:** Engineer's Degree, Computer Systems Engineering — Universidad Autónoma de Ciudad Juárez (UACJ), 2005
 
