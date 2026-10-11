@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gámez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+SRE+%7C+Cloud+Engineer;20+years+in+IT+%C2%B7+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+SRE+%7C+Cloud+Engineer;7+years+in+DevOps+and+cloud+%C2%B7+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-Guadalajara%20%C2%B7%20Monterrey%20%C2%B7%20Open%20to%20relocation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-Guadalajara%20%C2%B7%20Monterrey%20%C2%B7%20Mexico%20City-orange?style=for-the-badge" />
 </p>
 
 ---
 
-> 💼 **Open to Senior DevOps, SRE, Platform, and Cloud Automation roles** — remote, hybrid, or on-site in Guadalajara or Monterrey, and open to relocation for the right opportunity.
+> 💼 **Open to Senior and Lead DevOps, SRE, Platform, and Cloud Architecture roles** — remote, hybrid, or on-site in Guadalajara, Monterrey, or Mexico City.
 >
 > 📫 **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)**
 
@@ -33,7 +33,7 @@
 
 I automate infrastructure so teams spend less time firefighting and more time shipping.
 
-I've spent **20 years in IT**, starting as a Computer Science Engineer from UACJ and working up through Oracle DBA team leadership into **DevOps, SRE, and cloud engineering** across **AWS, OCI, and GCP**.
+I've spent the last **7 years in DevOps, SRE, and cloud engineering** across **AWS, OCI, and GCP**, after starting as a Computer Science Engineer from UACJ, running Linux/Unix systems and leading Oracle DBA teams.
 
 Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty.
 
@@ -44,9 +44,10 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 - 🔭 Most recently: **Senior Automation Engineer @ Petco** (Aug 2025 – Sep 2026) — Ansible/OLAM, Terraform, Kubernetes, GitLab, Datadog/Grafana
 - 🤖 Moving toward: **AIOps** — AI-driven observability, AI-assisted automation tooling, and applied ML in infrastructure projects
 - 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and building AI-assisted automation workflows into my daily tooling
+- 🏗️ Heading toward: **cloud architecture**
 - 🌱 Currently working toward: **AWS Certified Solutions Architect – Associate**
-- 🏢 Looking for: **Senior DevOps, SRE, Platform, or Cloud Automation roles** — remote, hybrid, or on-site
-- 📍 Guadalajara, Jalisco, Mexico — open to Guadalajara, Monterrey, or relocation
+- 🏢 Looking for: **Senior and Lead DevOps, SRE, Platform, or Cloud Architecture roles** — remote, hybrid, or on-site
+- 📍 Guadalajara, Jalisco, Mexico — open to Guadalajara, Monterrey, or Mexico City
 - 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, AIOps, and observability tooling
 - 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting, AI-augmented DevOps
 - 🌐 Languages: English (full professional), Spanish (native)
