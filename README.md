@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gámez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+SRE+%7C+Cloud+Engineer;7+years+in+DevOps+and+cloud+%C2%B7+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+SRE+%7C+Cloud+Engineer;14+years+in+DevOps+and+cloud+%C2%B7+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
