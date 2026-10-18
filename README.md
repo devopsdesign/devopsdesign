@@ -33,7 +33,7 @@
 
 I automate infrastructure so teams spend less time firefighting and more time shipping.
 
-I've spent the last **7 years in DevOps, SRE, and cloud engineering** across **AWS, OCI, and GCP**, after starting as a Computer Science Engineer from UACJ, running Linux/Unix systems and leading Oracle DBA teams.
+I have **14 years of experience in private and public clouds**: more than 7 years on **AWS** since 2019 and more than 6 years operating VMware private clouds (2012–2019), across **AWS, OCI, and GCP**. I started as a Computer Science Engineer from UACJ, running Linux/Unix systems and leading Oracle DBA teams.
 
 Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty.
 
