@@ -50,7 +50,7 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 - 📍 Guadalajara, Jalisco, Mexico — open to Guadalajara, Monterrey, or Mexico City
 - 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, AIOps, and observability tooling
 - 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting, AI-augmented DevOps
-- 🌐 Languages: English (full professional), Spanish (native)
+- 🌐 Languages: English (professional working proficiency, B2), Spanish (native)
 
 ---
 
@@ -69,6 +69,9 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat&logo=packer&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -83,6 +86,12 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+
+**Security & IAM**
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=flat&logo=auth0&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 
 **🤖 AIOps & AI-Augmented Automation**
 ![Datadog Watchdog](https://img.shields.io/badge/Datadog%20Watchdog-632CA6?style=flat&logo=datadog&logoColor=white)
@@ -100,8 +109,10 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 **CI/CD & Delivery**
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=flat&logo=buildkite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00ADE4?style=flat&logo=harness&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=flat&logo=git&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat&logo=terraform&logoColor=white)
 
 **ITSM & Collaboration**
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=flat&logo=servicenow&logoColor=white)
@@ -187,7 +198,7 @@ Built automated network device discovery for full infrastructure visibility, aut
 <summary><b>BlackLine</b> — DevOps / RDS Specialist · Nov 2022 – May 2023 · Remote</summary>
 <br>
 
-Tuned Amazon Aurora MySQL parameter groups (+20% query performance, −15% CPU) and automated RDS provisioning with Terraform (environment setup from 2 hours to 10 minutes).
+Tuned Amazon Aurora MySQL parameter groups — static parameter analysis on the main database, with groups per lifecycle phase (indexes, parser hints, forced execution plans): +20% query performance, −15% CPU in production. Set up the initial CloudWatch alarms for cloud metrics, which became the service KPIs. Automated RDS provisioning with Terraform (environment setup from 2 hours to 10 minutes).
 </details>
 
 <details>
