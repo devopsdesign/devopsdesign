@@ -50,7 +50,7 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 - 📍 Guadalajara, Jalisco, Mexico — open to Guadalajara, Monterrey, or Mexico City
 - 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, AIOps, and observability tooling
 - 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting, AI-augmented DevOps
-- 🌐 Languages: English (professional working proficiency, B2), Spanish (native)
+- 🌐 Languages: English (advanced, C1), Spanish (native)
 
 ---
 
