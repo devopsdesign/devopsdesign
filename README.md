@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://devopsdesign.github.io"><img src="https://img.shields.io/badge/Website-devopsdesign.github.io-7C3AED?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/devopsdesign"><img src="https://img.shields.io/badge/LinkedIn-devopsdesign-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devopsdesign@protonmail.com"><img src="https://img.shields.io/badge/Email-devopsdesign%40protonmail.com-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devopsdesign&style=flat&color=2496ED&label=Profile+Views" />
@@ -25,7 +26,7 @@
 
 > 💼 **Open to Senior and Lead DevOps, SRE, Platform, and Cloud Architecture roles** — remote, hybrid, or on-site in Guadalajara, Monterrey, or Mexico City.
 >
-> 📫 **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)**
+> 📫 **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)** · **[Website](https://devopsdesign.github.io)**
 
 ---
 
