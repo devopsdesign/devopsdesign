@@ -36,13 +36,13 @@ I automate infrastructure so teams spend less time firefighting and more time sh
 
 I have **14 years of experience in private and public clouds**: more than 7 years on **AWS** since 2019 and more than 6 years operating VMware private clouds (2012–2019), across **AWS, OCI, and GCP**. I started as a Computer Science Engineer from UACJ, running Linux/Unix systems and leading Oracle DBA teams.
 
-Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty.
+Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty. I also defined time-slice SLOs in Datadog for the AIX, Linux, and Windows fleets, with a dashboard per platform plus a summary, SLO-based alerts to PagerDuty aligned with maintenance windows, and the dashboards and monitors kept as code in Git with pull-request approval.
 
 Before that: automated network discovery, NetApp ONTAP upgrade automation, and CI/CD at **SAP**; at **FICO**, 45+ Jenkins jobs migrated to Pipelines (−25% build time), AWS security standards with 100% audit compliance, and average ticket resolution cut from 48 to 24 hours; DevOps, RDS, and SRE work at **BlackLine**, and at **Dexcom** and **Campspot** (through ITJuana and Zoolatech); and before 2021, a decade-plus as an Oracle DBA and technical leader at **Oracle, Nextiva, HCL, T-Systems, Foxconn, and HP**.
 
 I'm actively moving my career toward **AIOps** — applying AI/ML to observability, automation, and incident response instead of treating them as separate disciplines.
 
-- 🔭 Most recently: **Senior Automation Engineer @ Petco** (Aug 2025 – Sep 2026) — Ansible/OLAM, Terraform, Kubernetes, GitLab, Datadog/Grafana
+- 🔭 Most recently: **Senior Automation Engineer @ Petco** (Aug 2025 – Sep 2026) — Ansible/OLAM, Terraform, Kubernetes, GitLab, Datadog SLOs and dashboards as code, Grafana
 - 🤖 Moving toward: **AIOps** — AI-driven observability, AI-assisted automation tooling, and applied ML in infrastructure projects
 - 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and building AI-assisted automation workflows into my daily tooling
 - 🏗️ Heading toward: **cloud architecture**
@@ -100,7 +100,7 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
-> AI-driven anomaly detection in daily observability (Datadog Watchdog), AI coding/agent assistants (Claude, Copilot, ChatGPT) in my IaC and scripting workflow, and applied computer vision in production (Amazon Rekognition — see *CloudSight Intake* below).
+> AI-driven anomaly detection in daily observability (Datadog Watchdog), AI coding/agent assistants (Claude, Copilot, ChatGPT) in my IaC and scripting workflow, and applied computer vision in production (Amazon Rekognition — see *CloudSight Intake* below). I have also used an enterprise AI assistant to build observability as code (dashboards, SLOs, monitors) and Ansible inventories, with every change reviewed by pull request.
 
 **Languages & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -175,6 +175,10 @@ Led administration, optimization, and automation of enterprise-scale Unix/Linux 
 - **Infrastructure lifecycle:** large-scale decommissioning of unused Unix/Linux VMs on Nutanix; automated server provisioning and standardized machine images across GCP and AWS
 - **Automation:** Ansible and OLAM for configuration and patching, Terraform for provisioning, code in GitLab; UC4/AppWorx schedulers kept production jobs and databases unaffected through patch cycles
 - **Reliability:** resolved critical incidents (CPU, memory, disk) with Datadog, Grafana, and PagerDuty
+- **SLOs and dashboards:** defined time-slice SLOs in Datadog for the AIX, Linux, and Windows server fleets, based on host-alive probes with a 5-minute threshold; built four dashboards (one per platform plus a summary) showing downtime over the last 3 days and the last month, so offending servers stand out at a glance
+- **Alerting:** tied alerts to the SLOs and set up PagerDuty notifications for the team; cleaned up monitor tags, tuned metrics on noisy hosts, and aligned alerting with existing maintenance windows to avoid alerts and incidents from planned work
+- **Observability as code:** dashboards and monitors as JSON definitions deployed through the Datadog API from a Git repository, so they can be replicated, with any drift approved by stakeholders through pull requests
+- **Inventories:** built and reviewed Ansible inventories from documentation and host data to promote changes from test to production
 - **Compliance:** coordinated DNS changes, RADIUS certifications, and compliance updates across hundreds of hosts
 </details>
 
