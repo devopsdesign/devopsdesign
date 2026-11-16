@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Gámez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Senior+DevOps+Engineer+%7C+SRE+%7C+Cloud+Engineer;14+years+in+DevOps+and+cloud+%C2%B7+AWS%2C+OCI+%26+GCP;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Observability;Moving+towards+AIOps+%C2%B7+AI-Augmented+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI-Augmented+DevOps+and+SRE+Engineer;AI+agents+for+infrastructure+and+observability;Rules+set+the+risk%2C+a+person+approves+the+change;7%2B+years+on+AWS+%C2%B7+Terraform+%C2%B7+Kubernetes" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-> 💼 **Open to Senior and Lead DevOps, SRE, Platform, and Cloud Architecture roles** — remote, hybrid, or on-site in Guadalajara, Monterrey, or Mexico City.
+> 💼 **Open to AI DevOps, SRE, Forward Deployed, Platform, and Cloud Architecture roles** — remote, hybrid, or on-site in Guadalajara, Monterrey, or Mexico City.
 >
 > 📫 **[devopsdesign@protonmail.com](mailto:devopsdesign@protonmail.com)** · **[LinkedIn](https://linkedin.com/in/devopsdesign)** · **[Website](https://devopsdesign.github.io)**
 
@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 
-I automate infrastructure so teams spend less time firefighting and more time shipping.
+Since 2025 I build and operate infrastructure with AI agents: they draft Terraform, Ansible and observability changes, rules set the risk, and nothing reaches production without a person's approval.
 
 I have **14 years of experience in private and public clouds**: more than 7 years on **AWS** since 2019 and more than 6 years operating VMware private clouds (2012–2019), across **AWS, OCI, and GCP**. I studied Computer Systems Engineering at UACJ and started out running Linux/Unix systems and leading Oracle DBA teams.
 
@@ -40,14 +40,14 @@ Most recently, as **Senior Automation Engineer at Petco**, I drove workflow auto
 
 Before that: automated network discovery, NetApp ONTAP upgrade automation, and CI/CD at **SAP**; at **FICO**, 45+ Jenkins jobs migrated to Pipelines (−25% build time), AWS security standards with 100% audit compliance, and average ticket resolution cut from 48 to 24 hours; DevOps, RDS, and SRE work at **BlackLine**, and at **Dexcom** and **Campspot** (through ITJuana and Zoolatech); and before 2021, a decade-plus as an Oracle DBA and technical leader at **Oracle, Nextiva, HCL, T-Systems, Foxconn, and HP**.
 
-I'm actively moving my career toward **AIOps** — applying AI/ML to observability, automation, and incident response instead of treating them as separate disciplines.
+Today AI is part of how I work every day: agents do the drafting and the checks, and I own the review and the approval.
 
 - 🔭 Most recently: **Senior Automation Engineer @ Petco** (Aug 2025 – Sep 2026) — Ansible/OLAM, Terraform, Kubernetes, GitLab, Datadog SLOs and dashboards as code, Grafana
-- 🤖 Moving toward: **AIOps** — AI-driven observability, AI-assisted automation tooling, and applied ML in infrastructure projects
-- 🧭 Now: expanding the World Cup 2026 Monitor with alerting rules, and building AI-assisted automation workflows into my daily tooling
+- 🤖 Now: **AI agents for infrastructure** — AI-reviewed, human-approved Terraform, multi-agent operations with rule files and scheduled runs, AI-assisted observability as code
+- 🧭 Building: AI review gates for infrastructure pipelines ([ai-gated-terraform](https://github.com/devopsdesign/ai-gated-terraform))
 - 🏗️ Heading toward: **cloud architecture**
 - 🌱 Currently working toward: **AWS Certified Solutions Architect – Associate**
-- 🏢 Looking for: **Senior and Lead DevOps, SRE, Platform, or Cloud Architecture roles** — remote, hybrid, or on-site
+- 🏢 Looking for: **AI DevOps, SRE, Forward Deployed, Platform, or Cloud Architecture roles** — remote, hybrid, or on-site
 - 📍 Guadalajara, Jalisco, Mexico — open to Guadalajara, Monterrey, or Mexico City
 - 👯 Open to collaborating on: infrastructure automation, database-as-code CI/CD, AIOps, and observability tooling
 - 💬 Ask me about: AWS/OCI/GCP architecture, Terraform, Kubernetes, RDS/DBA ops, monitoring & alerting, AI-augmented DevOps
@@ -94,13 +94,11 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 ![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=flat&logo=auth0&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 
-**🤖 AIOps & AI-Augmented Automation**
+**🤖 AI-Augmented Engineering**
 ![Datadog Watchdog](https://img.shields.io/badge/Datadog%20Watchdog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Amazon Rekognition](https://img.shields.io/badge/Amazon%20Rekognition-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
-> AI-driven anomaly detection in daily observability (Datadog Watchdog), AI coding/agent assistants (Claude, Copilot, ChatGPT) in my IaC and scripting workflow, and applied computer vision in production (Amazon Rekognition — see *CloudSight Intake* below). I have also used an enterprise AI assistant to build observability as code (dashboards, SLOs, monitors) and Ansible inventories, with every change reviewed by pull request.
+![Human in the loop](https://img.shields.io/badge/Human%20in%20the%20loop-0F766E?style=flat)
+> AI coding agents on Terraform, Ansible, Python and CI; multi-agent setups with rule files, scheduled runs and connectors (MCP); human approval gates; AI output checked against source records. AI-driven anomaly detection in daily observability (Datadog Watchdog) and applied computer vision in production (Amazon Rekognition, see *CloudSight Intake* below).
 
 **Languages & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -125,7 +123,15 @@ I'm actively moving my career toward **AIOps** — applying AI/ML to observabili
 
 ### 📌 Featured Projects
 
-Two hands-on, production-shaped builds — both designed to run entirely inside the **AWS Free Tier**.
+Three hands-on, production-shaped builds.
+
+#### 🛡️🤖 [AI-reviewed, human-approved Terraform](https://github.com/devopsdesign/ai-gated-terraform)
+
+Where AI belongs in infrastructure changes: it explains the plan, it doesn't approve it. Every pull request gets a Terraform plan, a **rule-based risk level** (deletes, replacements and access or data resources are always high), an optional AI summary for the reviewer, and an apply that **waits for a person to approve** in a GitHub environment. The model sees which resources change, never their values, and the gate still works if the model is down.
+
+`Terraform` `GitHub Actions` `Python` `pytest` `Human in the loop`
+
+The next two are designed to run entirely inside the **AWS Free Tier**.
 
 <table>
 <tr>
@@ -284,7 +290,7 @@ Java/J2EE data applications that replaced a licensed Informatica workflow; Oracl
 - Oracle: RMAN, GoldenGate, Migrations & Cloud Infrastructure (2020) · Oracle Backup/Restore on 12c · Oracle University: Oracle Database 11g Performance Tuning (Aug 2014)
 - Security: DevSecOps Foundation
 
-**🤖 AIOps & AI Tooling**
+**🤖 AI training**
 - Leading Through AI Agent Disruption — LinkedIn Learning (Jun 2026)
 
 <details>
