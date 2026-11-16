@@ -34,7 +34,7 @@
 
 I automate infrastructure so teams spend less time firefighting and more time shipping.
 
-I have **14 years of experience in private and public clouds**: more than 7 years on **AWS** since 2019 and more than 6 years operating VMware private clouds (2012–2019), across **AWS, OCI, and GCP**. I started as a Computer Science Engineer from UACJ, running Linux/Unix systems and leading Oracle DBA teams.
+I have **14 years of experience in private and public clouds**: more than 7 years on **AWS** since 2019 and more than 6 years operating VMware private clouds (2012–2019), across **AWS, OCI, and GCP**. I studied Computer Systems Engineering at UACJ and started out running Linux/Unix systems and leading Oracle DBA teams.
 
 Most recently, as **Senior Automation Engineer at Petco**, I drove workflow automation for enterprise Unix/Linux and hybrid-cloud infrastructure: configuration and patching with Ansible/OLAM, provisioning with Terraform (code in GitLab), standardized machine images across GCP and AWS, Kubernetes (NKP/DKP) workloads, large-scale VM decommissioning on Nutanix, and incident response with Datadog, Grafana, and PagerDuty. I also defined time-slice SLOs in Datadog for the AIX, Linux, and Windows fleets, with a dashboard per platform plus a summary, SLO-based alerts to PagerDuty aligned with maintenance windows, and the dashboards and monitors kept as code in Git with pull-request approval.
 
@@ -297,7 +297,7 @@ Java/J2EE data applications that replaced a licensed Informatica workflow; Oracl
 - Diploma in Organizational Development: Customer Service, Modules 1 & 2 — Universidad Anáhuac Puebla
 </details>
 
-**Education:** Engineer's Degree, Computer Systems Engineering — Universidad Autónoma de Ciudad Juárez (UACJ), 2005
+**Education:** Ingeniería en Sistemas Computacionales (Computer Systems Engineering) — Universidad Autónoma de Ciudad Juárez (UACJ), 2005
 
 <details>
 <summary><b>Recent Learning</b> — LinkedIn Learning course completions (Jun 2026)</summary>
