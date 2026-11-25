@@ -12,12 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/henrydevsecops"><img src="https://img.shields.io/badge/Instagram-@henrydevsecops-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@henry.devops"><img src="https://img.shields.io/badge/TikTok-@henry.devops-000000?style=flat&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61593340402385"><img src="https://img.shields.io/badge/Facebook-Henry%20Devsecops-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-Guadalajara%20%C2%B7%20Monterrey%20%C2%B7%20Mexico%20City-orange?style=for-the-badge" />
 </p>
